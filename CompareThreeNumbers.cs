@@ -1,4 +1,10 @@
 ﻿
+// 🧮 Problem: Compare Three Numbers
+// Ask the user to enter 3 numbers.
+// Print which number is the largest.
+// If two or more numbers are equal and the largest, print "There is a tie".
+// If all three numbers are equal, print "All numbers are equal".
+// Validate input using TryParse.
 
 
 
@@ -62,6 +68,7 @@ double ReadNumer(string message)
 
 
     }
+
 
 
 }
